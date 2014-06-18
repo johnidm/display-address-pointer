@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2014/06/18 09:53:22.926,=C:\Users\johni\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/06/18 09:53:50.048,D:\projetos-estudo\display-address-pointer\MainDiplayAddressPointer.pas=C:\Users\johni\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/06/18 09:53:50.048,D:\projetos-estudo\display-address-pointer\MainDiplayAddressPointer.dfm=C:\Users\johni\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2014/06/18 09:53:56.587,D:\projetos-estudo\display-address-pointer\DiplayAddressPointer.dproj=C:\Users\johni\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2014/06/18 09:54:01.622,=D:\projetos-estudo\display-address-pointer\DiplayAddressPointer.pas</Transaction>
+    <Transaction>2014/06/18 09:54:13.386,D:\projetos-estudo\display-address-pointer\ProjectDiplayAddressPointer.dproj=D:\projetos-estudo\display-address-pointer\DiplayAddressPointer.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
